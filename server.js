@@ -8,3 +8,5 @@ c.forEach(function(intgr){
     sum += intgr;
      console.log(sum); 
 });
+
+console.log('ashitha');
